@@ -7,11 +7,11 @@ def elementos_repetidos(lista):
     
     if len(lista) != len(a):
         
-        return "Existen elemtos repetidos"
+        return "Existen elementos repetidos"
     
     else:
         
-        return "No existen elemtos repetidos"
+        return "No existen elementos repetidos"
 
 
 a = [1,2,3,4,5,5]
